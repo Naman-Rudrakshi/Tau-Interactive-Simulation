@@ -68,7 +68,7 @@ def run_sim():
             break
         elif run==0:
             print("paused")
-        time.sleep(2)
+        time.sleep(0.5)
 
 @app.route("/pause", methods=["POST"])
 def pause():
