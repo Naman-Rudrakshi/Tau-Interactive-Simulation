@@ -3,6 +3,8 @@ This is the code for my group's research project at the Research in Science and 
 Backend: Python, handles simulation
 Frontend: HTML/CSS/JS: displays interactive results of simulation in 3D
 
+Demo Video (short): https://www.youtube.com/watch?v=Kb9UW598NBE
+
 Below is the research project proposal for our simulation:
 
 
